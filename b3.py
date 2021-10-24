@@ -1,3 +1,7 @@
+'''
+Nhập bốn số xuất ra số lớn nhất và bé nhất trong bốn số đó.
+'''
+
 a = input("a:")
 b = input("b:")
 c = input("c:")
