@@ -1,0 +1,5 @@
+a = input()
+b = input()
+c = input()
+d = input()
+print("so lon nhat:", max(a, b ,c ,d))
